@@ -7,7 +7,7 @@
 
 ### موضوع پروژه: شبکه عصبی بازگشتی برای حل مسائل بهینه‌سازی غیرخطی
 برای دانلود پایان نامه رفرنس پروژه
-<a href='https://github.com/EnAnsari/comp-intl-hsu-1402/releases/download/1.0.0/RNN-nonlinear-optimization.pdf'>اینجا +<a/>
+<a href='https://github.com/EnAnsari/comp-intl-hsu/releases/download/1.0.0/RNN-nonlinear-optimization.pdf'>اینجا +<a/>
 کلیک کنید.
 <br><br><hr>
 با دادن ستاره ⭐ به این ریپوزیتوری از آن حمایت کنید.
